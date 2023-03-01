@@ -1,0 +1,4 @@
+variables:
+- team: manav-ci
+- admin-user: manav20052022-admin
+- manager-user: manav20052022
